@@ -1,0 +1,8 @@
+title: Rubx
+description: Site of the Rubx
+image: https://avatars0.githubusercontent.com/u/45299137
+
+url: "http://rubx.kacperduras.pl"
+
+plugins:
+  - jekyll-seo-tag
